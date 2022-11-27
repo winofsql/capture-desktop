@@ -31,3 +31,5 @@
 ### 4) PrintScreen で全体をキャプチャ
 ### 5) CTRL + ALT + F で全体ビューに戻す
 ### 6) mspaint に貼り付けて必要な部分を取り出す
+
+![image](https://user-images.githubusercontent.com/1501327/204124928-49bb020d-328a-4935-b5f4-71821d62fe2b.png)
