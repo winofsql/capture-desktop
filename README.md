@@ -11,3 +11,7 @@
 ### キャプチャ後表示される『切り取り & スケッチを選択』
 
 ![image](https://user-images.githubusercontent.com/1501327/204124292-9da0b8b1-b3a0-458d-9bea-f8b921433d0a.png)
+
+### または通知から選択
+
+![image](https://user-images.githubusercontent.com/1501327/204124440-d6705604-39d4-4ba9-a3c8-c1fbfb820d21.png)
