@@ -20,7 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/204124535-b3215d09-a4c4-4609-b2d3-ca188a82cf36.png)
 
-クリップボードの画像の輪郭に黒いけって線を設定
+クリップボードの画像の輪郭に黒い輪郭線を設定
 
 ![image](https://user-images.githubusercontent.com/1501327/204124646-217cd140-f8ff-4ed4-ad76-dcd9e38ce3c3.png)
 
