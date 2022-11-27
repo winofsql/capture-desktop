@@ -5,3 +5,6 @@
 ### 真ん中 : ウインドウ / その右 : デスクトップ
 
 ![image](https://user-images.githubusercontent.com/1501327/204124165-34fc30a4-e554-439e-972b-e66587b3c2b7.png)
+
+
+![image](https://user-images.githubusercontent.com/1501327/204124223-4aeb57c0-2121-40ef-af09-a40f88088336.png)
