@@ -1,1 +1,1 @@
-# capture-desktop
+# capture-desktop ( WIN + SHIFT + S )
