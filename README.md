@@ -33,3 +33,5 @@
 ### 6) mspaint に貼り付けて必要な部分を取り出す
 
 ![image](https://user-images.githubusercontent.com/1501327/204124928-49bb020d-328a-4935-b5f4-71821d62fe2b.png)
+
+![image](https://user-images.githubusercontent.com/1501327/204175598-6cf210fb-8c10-4385-af45-67c55fcbf8e5.png)
