@@ -8,11 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/204124165-34fc30a4-e554-439e-972b-e66587b3c2b7.png)
 
-### キャプチャ後表示される『切り取り & スケッチ』を選択
-
-![image](https://user-images.githubusercontent.com/1501327/204125159-50fb760d-11e1-43a6-850d-fb22a94fedff.png)
-
-### または通知から選択
+### キャプチャ後通知から選択
 
 ![image](https://user-images.githubusercontent.com/1501327/204124440-d6705604-39d4-4ba9-a3c8-c1fbfb820d21.png)
 
