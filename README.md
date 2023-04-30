@@ -30,6 +30,6 @@
 
 ![image](https://user-images.githubusercontent.com/1501327/204124928-49bb020d-328a-4935-b5f4-71821d62fe2b.png)
 
-### CTRL + SHIFT + D
+### CTRL + ALT + D
 ![image](https://user-images.githubusercontent.com/1501327/204175869-faea0f98-b8b5-4710-921f-801bf2cbd6d2.png)
 
